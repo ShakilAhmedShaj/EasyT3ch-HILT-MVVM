@@ -51,9 +51,9 @@
 
 ### Install the apk
 
-<a href="https://link.shaj.dev/et-dagger2-apk"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="185" height="70"/></a>
+<a href="https://link.shaj.dev/et-hilt-apk"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="185" height="70"/></a>
 
-Go to the following [link](https://link.shaj.dev/et-dagger2-apk) to download the app.
+Go to the following [link](https://link.shaj.dev/et-hilt-apk) to download the app.
 
 
 ## Architecture
